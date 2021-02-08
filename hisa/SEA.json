@@ -1,0 +1,21 @@
+{
+  "ver":1.0,
+  "se":{
+    "3":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/hisa/countdown5.mp3"},
+	"11":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/hisa/hule_fan_out.mp3"},
+    "25":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/hisa/m_400.wav"},
+    "26":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/hisa/m_400.wav"},
+    "27":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/hisa/m_402.wav"},
+    "28":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/hisa/m_402.wav"},
+    "29":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/hisa/m_401.wav"},
+    "30":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/hisa/m_401.wav"},
+    "31":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/hisa/m_403.wav"},
+    "32":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/hisa/m_403.wav"},
+    "33":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/hisa/m_404.wav"},
+    "34":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/hisa/m_404.wav"},
+    "35":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/hisa/m_415.wav"},
+    "36":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/hisa/m_415.wav"},
+    "40":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/hisa/s_404.wav"},
+    "41":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/hisa/s_405.wav"}
+  }
+}
