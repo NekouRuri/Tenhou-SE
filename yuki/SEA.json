@@ -1,0 +1,21 @@
+{
+  "ver":1.0,
+  "se":{
+    "3":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/yuki/countdown5.mp3"},
+    "11":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/yuki/hule_fan_out.mp3"},
+    "25":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/yuki/act_pon.wav"},
+    "26":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/yuki/act_pon.wav"},
+    "27":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/yuki/act_kan.wav"},
+    "28":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/yuki/act_kan.wav"},
+    "29":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/yuki/act_chi.wav"},
+    "30":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/yuki/act_chi.wav"},
+    "31":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/yuki/act_riich.wav"},
+    "32":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/yuki/act_riich.wav"},
+    "33":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/yuki/act_ron.wav"},
+    "34":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/yuki/act_ron.wav"},
+    "35":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/yuki/act_tumo.wav"},
+    "36":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/yuki/act_tumo.wav"},
+    "40":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/yuki/winlose.wav"},
+    "41":{"url":"https://raw.githubusercontent.com/NekouRuri/Tenhou-SE/master/yuki/yakuman.wav"}
+  }
+}
